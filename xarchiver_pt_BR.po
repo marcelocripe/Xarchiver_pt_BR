@@ -324,7 +324,7 @@ msgstr "Tipo de verificação"
 
 #: ../src/arj.c ../src/rar.c
 msgid "Checksum"
-msgstr "Integridade do arquivo (checksum)"
+msgstr "Integridade do arquivo"
 
 #: ../src/pref_dialog.c
 msgid "Choose the application to use"
